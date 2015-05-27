@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Yii 2 Basic Project Template
 ============================
 
@@ -90,3 +91,7 @@ return [
 **NOTE:** Yii won't create the database for you, this has to be done manually before you can access it.
 
 Also check and edit the other files in the `config/` directory to customize your application.
+=======
+# nish-nudostilo
+my repo on git
+>>>>>>> 06f61f37b7bdecde970aa9d5b7544bd78697c640
