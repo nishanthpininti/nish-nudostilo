@@ -1,2 +1,2 @@
 # nish-nudostilo
-my repo on git
+my repo on github
